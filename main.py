@@ -21,8 +21,6 @@ Button(win, text="Click Me",font="impact 12 bold", bg="blue",fg="white", width="
 entry2 = Entry(win,font="imapact 16 bold", bg="grey", width=22, bd=0)
 entry2.pack(pady=25)
 
-
-
 mainloop()
 
 
