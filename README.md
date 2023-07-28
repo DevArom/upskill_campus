@@ -1,5 +1,5 @@
-To run the above project, download it and install any IDE (Recommended PyCharm).
-After installing IDE and my project, just type "pip install pyshorteners" in your terminal (System environment) and enter and further copy, paste my project.
+To run the main.py file, download it and install any IDE (Recommended PyCharm).
+After installing IDE, now just open the main.py file which you've downloaded from my repository and now just type "pip install pyshorteners" in your terminal (System environment) and enter.
 My project is ready to run in your system environment.
 
 
