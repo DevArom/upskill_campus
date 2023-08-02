@@ -1,4 +1,4 @@
-#PyShortLink
+# PyShortLink - Python URL Shortener
 
 To run the main.py file, download it and install any IDE (Recommended PyCharm).
 After installing the IDE, open the main.py file you've downloaded from my repository. Next, type "pip install pyshorteners" in your terminal (System environment) and press enter.
